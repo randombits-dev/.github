@@ -1,3 +1,3 @@
-# Random Bits Software Engineering
-
-See articles and projects @ [randombits.dev](https://randombits.dev)
+# Random Bits LLC
+Software Engineering
+[randombits.dev](https://randombits.dev)
